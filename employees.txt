@@ -1,3 +1,5 @@
+Steere, Cole:12345:08/04/2020:Office 19
+
 Witt, Abigail,Employee,$45000.00
 Hable, Abigail K.,Employee,$45000.00
 Wang-Levine, Adam,Employee,$55080.00
